@@ -13,6 +13,10 @@ This initiative supports IndyGo’s broader open data vision by improving:
  *  Operational efficiency: Helping IndyGo teams identify problem areas.
   * Decision-making: Providing planners and stakeholders with actionable insights to optimize routes and schedules.
 
+<img width="1574" height="1290" alt="image" src="https://github.com/user-attachments/assets/b06ecff8-28c5-4016-9d6f-9ffd3cb754ce" />
+
+[Link to Report ](https://github.com/1adityakadam/Indygo_OTP_analysis/blob/main/Indygo%20OTP%20Client%20Project_Final%20Report.docx.pdf)
+
 Key business questions addressed:
 
  * What is the overall OTP by day of service (Weekday, Saturday, Sunday)?
